@@ -1,5 +1,6 @@
 transformers
 transformers[sentencepiece]
+accelerate>=1.1.0
 datasets
 sacrebleu 
 rouge_score 
